@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php 
-        echo "Hola mundo";
+        echo "Hola mundo PHP";
     ?>
 </body>
 </html>
